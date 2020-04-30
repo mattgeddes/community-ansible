@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Matthew Geddes
+  description: Matthew Geddes
+  #company: your company (optional)
+  license: Apache-2.0
+  min_ansible_version: 2.0
+  galaxy_tags: ["ansible","community","ppa"]
+dependencies: []
