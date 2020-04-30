@@ -9,6 +9,8 @@
       state: present
 - name: Update Ansible package
   apt:
-      name: ansible
+      name:
+          - ansible
+          - cowsay
       update_cache: yes
       state: latest
