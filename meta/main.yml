@@ -4,5 +4,17 @@ galaxy_info:
   #company: your company (optional)
   license: Apache-2.0
   min_ansible_version: 2.0
+  platforms:
+      - name: Ubuntu
+        versions:
+            - focal
+            - eoan
+            - disco
+            - cosmic
+            - bionic
+      - name: Debian
+        versions:
+            - stretch
+            - buster
   galaxy_tags: ["ansible","community","ppa"]
 dependencies: []
