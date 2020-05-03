@@ -16,5 +16,5 @@ galaxy_info:
         versions:
             - stretch
             - buster
-  galaxy_tags: ["ansible","community","ppa"]
+  galaxy_tags: ["ansible", "community", "ppa"]
 dependencies: []
