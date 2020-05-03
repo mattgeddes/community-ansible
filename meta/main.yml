@@ -1,6 +1,6 @@
 galaxy_info:
   author: Matthew Geddes
-  description: Matthew Geddes
+  description: An Ansible role for updating distro-provided Ansible from the community PPA
   #company: your company (optional)
   license: Apache-2.0
   min_ansible_version: 2.0
